@@ -12,6 +12,7 @@ function App() {
   const [visible, setVisible] = useState(8);
   const resetBasket = () => {
     setBasket([]);
+    setMoney(500);
   };
   const paginationNext = () => {
     setVisible(visible + 8);

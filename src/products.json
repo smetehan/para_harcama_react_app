@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "title": "Salça",
+    "price": 50,
+    "image": "https://cdn.dsmcdn.com/ty23/product/media/images/20201119/13/28985442/22353138/1/1_org_zoom.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Kola",
+    "price": 30,
+    "image": "https://storage.googleapis.com/ucuzsepet-cdn/products/a101/174139.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Yumurta",
+    "price": 65,
+    "image": "https://www.mismarsanalmarket.com/UserFiles/Fotograflar/org/6105-saraykoylum-yumurta-30-lu-l-boy-saraykoylum-yumurta-30lu-hacioglu-beyazyumurta-cf64.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Peynir Süzme",
+    "price": 100,
+    "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQ4pSxi7sdFYH5BY8CHcgN1OT5pyGTvDQIckVa1lHTMUFaFc76jSCAdp1C2QpEgnXgAI7GHVNyXwzFCWmiRKD8T94AiG2KoBVjA5pKGSLNlE1PGpumdSx9unA&usqp=CAE"
+  },
+  {
+    "id": 5,
+    "title": "Yoğurt",
+    "price": 25,
+    "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRlKdUJ8OZpdJZ8goTnu0reJe8ydVZvQSXzhyh8EZ85so-zvaW-S2POyzrpigO7PITKZ_jn1ySO9pJw90I-UwpdtDcnLRYCflxaCNoUp3zd2apvEFmXwzYdvQ&usqp=CAE"
+  },
+  {
+    "id": 6,
+    "title": "Süt",
+    "price": 30,
+    "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcS5xEwiISpMh5oRwRx5izvdeCPPQyfGSqLGabu8dBNofvA9RXVTulxzMZ2CdfD5can1HYTa5egZycuX9czlO-9kfOgy0Cy55jLaud39LZLo3m1OQoO_uSluKA&usqp=CAE"
+  },
+  {
+    "id": 7,
+    "title": "Tereyağ",
+    "price": 180,
+    "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQfk4I7GveC6i8aLEawgu4pyDzrrmBqylgkUIYqc8weOudA1Yk3vofqbM1cyU6MVEAhxuojwGkb7Z77vmmkOyM0l6tsDBVc5GI_yQUlxRUWOHlUbIsLTzVQ4Q&usqp=CAE"
+  },
+  {
+    "id": 8,
+    "title": "Zeytin",
+    "price": 56,
+    "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTWYhgPAa82IG1_8Y3nQO5xX1LWuKv8QGphNGTIufQcvJDhcT2BHW8on3PS5jlUma9RtNjiXQ77CIMFCx2GFklxEeqsytDWM6WfBFw1p2Ywb_0tTKmfnDHDIQ&usqp=CAE"
+  },
+  {
+    "id": 9,
+    "title": "Reçel",
+    "price": 65,
+    "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRHlLfqkr9rB9pKdcpwr46_Ack6o_6NqaweKGfUNKb3wGndWzidr050dko7gLXrvq7hNXovaKCp1cbzvuPPBSxAadojeAoKsqLcvH0y7rvos-ps5GS-uArSLQ&usqp=CAE"
+  },
+  {
+    "id": 10,
+    "title": "Kaymak",
+    "price": 250,
+    "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRbDsdh7K4XUcboh7KyPxMpjgNOaZtG46OSc7nFQdTBzf_F7QbmbnePjeAbw5V_jVVSlk8ql1kguU6_8p79zJscrrG9ALPp&usqp=CAE"
+  },
+  {
+    "id": 11,
+    "title": "Pekmez",
+    "price": 100,
+    "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRbDsdh7K4XUcboh7KyPxMpjgNOaZtG46OSc7nFQdTBzf_F7QbmbnePjeAbw5V_jVVSlk8ql1kguU6_8p79zJscrrG9ALPp&usqp=CAE"
+  },
+  {
+    "id": 12,
+    "title": "Helva",
+    "price": 60,
+    "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTsGVRxURos_PTrTTWew9EMenIeivdLb9yPVgA5yHj2_dU5qRO-q7KlRPwQjrkKUzzMWBYbgERpms2M1-CIS1zMnjKBcuqRoEw5KNC7oqBWqYdTGzpFsKsZgw&usqp=CAE"
+  },
+  {
+    "id": 13,
+    "title": "Sucuk",
+    "price": 350,
+    "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcT1K89yZRfkDFZsfVTa7BGi9tnH6HN7VklSM58Wets6cmAOqPKa5piiJeoFW1U_AO6t4WmxDMKhJagzpOjkuUT48q_AhEkewpotxLVjTAsOjqRSDsW9-J5MBg&usqp=CAE"
+  },
+  {
+    "id": 14,
+    "title": "Salam",
+    "price": 50,
+    "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQ1OXCr15c7KBAzH86gluiR1FYWurF1tAbidnQRIjLGR2XejHyhw7IFUioy1e31_RPoIFXXNs-6voViuvBCaMf1tyeuTE2mFhE54AC26eRygVRpI_6iZTZg&usqp=CAE"
+  },
+  {
+    "id": 15,
+    "title": "Pastırma",
+    "price": 450,
+    "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRJDDY2vvXkWphIBm_F2biAKE4pp9yumDC8FgRk-10dCsI_Wn-1aZvlM4St5cUOSNWvA0EfFsRnCWsTbFlX1r27klP4aswu5UeYn_bJNbn3jkty_itWFnbN&usqp=CAE"
+  },
+  {
+    "id": 16,
+    "title": "Sosis",
+    "price": 120,
+    "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRurpquEjaQlxuORN_fUbzVjlYOtLvxmOJnmFFfh_8h5flPM1uaC8Xw1KQon15CN56AtEJgcqWkDEcLGf6wKuE3MYkeL34A_tQelRtOTskTaYPdrpvJ5wMELA&usqp=CAE"
+  }
+]
